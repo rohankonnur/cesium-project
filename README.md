@@ -1,6 +1,6 @@
 # cesium-project
 
-##How to Run This Project
+## How to Run This Project
 
 - Make sure you have installed all dependencies (i.e. express, postgresql, cors)
 - Create a postgres database and set it up according to the server/database.sql structure
